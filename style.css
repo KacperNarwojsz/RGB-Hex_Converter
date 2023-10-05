@@ -1,0 +1,52 @@
+body {
+	font-family: 'Courier New', Courier, monospace;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background-color:beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font: 800 4em 'Courier New';
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+#userinput {
+    font: 900 1em 'Raleway', sans-serif;
+    height: 2em;
+    width: 12em;
+    font-size: 3.5em;
+    border-radius: 0.5em;
+    text-align: center;
+    color: rgba(0,0,0,.5);
+    background-color: white;
+}
+
+#converterBtn{
+    font: 900 2em 'Raleway', sans-serif;
+    border-radius: 0.5em;
+    width: 8em;
+    height: 2em;
+    margin-top: 1.3em;
+}
+
+#ans {
+    font: 900 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+    justify-content: center;
+    height: 1.5em;
+    width: 11.4em;
+}
+
